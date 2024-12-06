@@ -32,21 +32,21 @@ hero_cover_img: fr3akazo1d-background-nord-blue.png # replace this for changing 
 # Experiences
 author_work_experiences:
             - company_name: Infineon
-              company_logo: google.png
+              company_logo: infineon.png
               company_url: https://infineon.com
               designation: Red-Team Operator
               description: Working on Red-Team Infrastructure and Adversary emulation
               visibility: true
             - company_name: Infineon
-              company_logo: microsoft.png
+              company_logo: infineon.png
               company_url: https://infineon.com
               designation: SOC Analyst
               description: Working as a SOC Analyst
               visibility: true
             - company_name: addIT
-              company_logo: microsoft.png
+              company_logo: atos.png
               company_url: https://addit.at
-              designation: SNetwork Engineer
+              designation: Network Engineer
               description: Working as a Network Engineer for various customers.
               visibility: true
 
