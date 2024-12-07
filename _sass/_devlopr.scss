@@ -8,19 +8,19 @@ $text-width: 650px;
 
 html[data-theme="dark"] {
     --bold-color: rgb(188, 188, 188);
-    --box-background-color: #4c566a;
+    --box-background-color: #2e3440;
     --highlight-color: hsl(0, 0%, 60%);
     --light-border-color: hsl(0, 0%, 30%);
     --light-text-color: rgb(199, 199, 204);
     --link-color: #81a1c1;
     --link-color-visited: #88c0d0;
-    --main-background-color: #2e3440;
+    --main-background-color: #3b4252;
     --main-text-color: #eceff4;
     --medium-text-color: #eceff4;
     --underline-color: #eceff4;
     --social-link-color: #eceff4;
-    --card-background-color: #434c5e;
-    --newsletter-background-color: #4c566a;
+    --card-background-color: #2e3440;
+    --newsletter-background-color: #2e3440;
     --button-background-color:#4c566a;
 }
 
@@ -55,7 +55,7 @@ html[data-theme="light"] {
         --light-text-color: rgb(199, 199, 204);
         --link-color: #81a1c1;
         --link-color-visited: #88c0d0;
-        --main-background-color: #2e3440;
+        --main-background-color: #3b4252;
         --main-text-color: #eceff4;
         --medium-text-color: #eceff4;
         --underline-color: #eceff4;
