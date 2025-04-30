@@ -43,22 +43,22 @@ h3, h4, h5 {
 
 .nav {
   > li > a {
-    color: #a7b1c2;
+    color: #81a1c1; /* Nord Frost 3 */
     font-weight: 600;
     padding: 14px 20px 14px 25px;
   }
   &.navbar-right > li > a {
-    color: #999c9e;
+    color: #88c0d0; /* Nord Frost 2 */
   }
   > li.active > a {
-    color: #fff;
+    color: #eceff4; /* Nord Snow Storm 0 */
   }
 }
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
-    background-color: #293846;
-    color: #fff;
+    background-color: #3b4252; /* Nord Polar Night 2 */
+    color: #eceff4; /* Nord Snow Storm 0 */
   }
 }
 
@@ -81,7 +81,7 @@ h3, h4, h5 {
 }
 
 .navbar-default {
-  border-color: #2f4050;
+  border-color: #4c566a; /* Nord Polar Night 3 */
 }
 
 .navbar-top-links li {
@@ -110,16 +110,16 @@ h3, h4, h5 {
 }
 
 .nav > li.active {
-  border-left: 4px solid #81a1c1;
-  background: #293846;
+  border-left: 4px solid #81a1c1; /* Nord Frost 3 */
+  background: #3b4252; /* Nord Polar Night 2 */
 }
 
 .nav-header {
   a {
-    color: #DFE4ED;
+    color: #eceff4; /* Nord Snow Storm 0 */
   }
   .text-muted {
-    color: #8095a8;
+    color: #d8dee9; /* Nord Snow Storm 2 */
   }
 }
 
@@ -153,27 +153,27 @@ h3, h4, h5 {
 }
 
 .navbar-default .landing_link a {
-  background: #81a1c1;
-  color: #fff;
+  background: #81a1c1; /* Nord Frost 3 */
+  color: #eceff4; /* Nord Snow Storm 0 */
   &:hover {
-    background: #81a1c1 !important;
-    color: #fff;
+    background: #88c0d0 !important; /* Nord Frost 2 */
+    color: #eceff4; /* Nord Snow Storm 0 */
   }
   span.label {
-    background: #fff;
-    color: #81a1c1;
+    background: #eceff4; /* Nord Snow Storm 0 */
+    color: #81a1c1; /* Nord Frost 3 */
   }
 }
 
 .navbar-fixed-top {
   transition-duration: .4s;
-  border-bottom: 1px solid #e7eaec !important;
+  border-bottom: 1px solid #4c566a !important; /* Nord Polar Night 3 */
   z-index: 2030;
-  background: #f3f3f4;
+  background: #2e3440; /* Nord Polar Night 1 */
 }
 
 .navbar-static-top {
-  background: #f3f3f4;
+  background: #2e3440; /* Nord Polar Night 1 */
 }
 
 .fixed-nav #wrapper {
@@ -209,9 +209,10 @@ body.canvas-menu .nav-header {
   margin-left: 0;
 }
 
+
 .white-bg {
   .navbar-fixed-top, .navbar-static-top {
-    background: #fff;
+    background: #eceff4; /* Nord Snow Storm 0 */
   }
 }
 
@@ -222,19 +223,19 @@ body.canvas-menu .nav-header {
   .nav > li {
     > a {
       padding: 15px 20px;
-      color: #676a6c;
+      color: #d8dee9; /* Nord Snow Storm 2 */
     }
     a {
       &:focus, &:hover {
-        background: #fff;
-        color: #81a1c1;
+        background: #eceff4; /* Nord Snow Storm 0 */
+        color: #81a1c1; /* Nord Frost 3 */
       }
     }
     &.active {
-      background: #fff;
+      background: #eceff4; /* Nord Snow Storm 0 */
       border: none;
       > a {
-        color: #81a1c1;
+        color: #81a1c1; /* Nord Frost 3 */
       }
     }
   }
@@ -256,8 +257,8 @@ body.canvas-menu .nav-header {
 }
 
 .top-navigation .navbar-brand {
-  background: #81a1c1;
-  color: #fff;
+  background: #81a1c1; /* Nord Frost 3 */
+  color: #eceff4; /* Nord Snow Storm 0 */
   padding: 15px 25px;
 }
 
@@ -304,9 +305,10 @@ body.canvas-menu .nav-header {
   padding: 40px 0;
 }
 
+
 .navbar-toggle {
-  background-color: #81a1c1;
-  color: #fff;
+  background-color: #81a1c1; /* Nord Frost 3 */
+  color: #eceff4; /* Nord Snow Storm 0 */
   padding: 6px 12px;
   font-size: 14px;
 }

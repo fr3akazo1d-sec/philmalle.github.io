@@ -4,6 +4,20 @@
     detail: Infineon Technologies
     i18n: company_b
   desc:
+     detail: Senior Staff Engineer Offensive Security
+     i18n: company_b_desc
+  date:
+     detail: April 2025
+     i18n: company_b_date
+  job:
+     detail: Cyber-Security Offensive Secrurity 
+     i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+- name:
+    detail: Infineon Technologies
+    i18n: company_b
+  desc:
      detail: Senior Staff Specialist Offensive Security
      i18n: company_b_desc
   date:
