@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Linux, Windows, Mac, Python, Metasploit, BurpSuite, Active-Directory, SIEM, Windows Exploitation, Privilege Excalation, Network Exploitation, Red-Teaming
-percentage: 70, 80, 60, 40, 70, 60, 60, 40, 100, 70, 80, 70
+aspects: Linux, Windows, Mac, Python, Metasploit, BurpSuite, Active-Directory, Mythic, Windows Exploitation, Privilege Excalation, Network Exploitation, Red-Teaming, Sliver
+percentage: 70, 80, 60, 40, 70, 60, 60, 60, 80, 70, 80, 70, 60
